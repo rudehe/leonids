@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Jekyll!
-date: {}
+date: 2015-08-08
 comments: true
 ---
 한글테스트
