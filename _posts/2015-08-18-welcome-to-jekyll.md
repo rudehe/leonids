@@ -3,7 +3,6 @@ layout: post
 title: Welcome to Jekyll!
 date: {}
 comments: true
-published: true
 ---
 한글테스트
 
