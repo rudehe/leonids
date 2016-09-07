@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 excerpt: Demo post displaying the various ways of highlighting code in Markdown.
 categories:
